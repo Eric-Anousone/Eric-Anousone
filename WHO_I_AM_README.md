@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **contact.enguyen@gmail.com**
 
-- 📄 Know about my experiences [🚀After 10 years of experience as an entrepreneur, I wish to leverage my expertise to benefit a company, utilizing data 📊 as a strategic axis for development🎯](🚀After 10 years of experience as an entrepreneur, I wish to leverage my expertise to benefit a company, utilizing data 📊 as a strategic axis for development🎯)
+- 📄 Know about my experiences : 🚀After 10 years of experience as an entrepreneur, I wish to leverage my expertise to benefit a company, utilizing data 📊 as a strategic axis for development🎯
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
