@@ -7,8 +7,7 @@
 
 - 📫 How to reach me **contact.enguyen@gmail.com**
 
-- 📄 Know about my experiences :
-🚀After 10 years of experience as an entrepreneur, I wish to leverage my expertise to benefit a company, utilizing data 📊 as a strategic axis for development🎯
+- 📄 Know about my experiences :🚀After 10 years of experience as an entrepreneur, I wish to leverage my expertise to benefit a company, utilizing data 📊 as a strategic axis for development🎯. In May 2023, I chose to enroll in a Data Analyst bootcamp with the goal of enhancing my data processing skills. Thanks to Databird's teams, I am now a Data Analyst and prepared for new opportunities. I improve my skills in SQL and Python to become more proficient. Thank you for taking the time to review my portfolio.
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/eric-nguyen-pro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eric-nguyen-pro" height="30" width="40" /></a>
