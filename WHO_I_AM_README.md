@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [my portofolio !](https://github.com/Eric-Anousone/portofolio)
 
-- 👯 I’m looking for a new opportunity [CV_Eric_NGUYEN](https://github.com/Eric-Anousone/Eric-Anousone/blob/main/CV_Eric_NGUYEN_Data_Analyst.pdf)
+- 👯 I’m looking for a new opportunity ! [CV_Eric_NGUYEN](https://github.com/Eric-Anousone/Eric-Anousone/blob/main/CV_Eric_NGUYEN_Data_Analyst.pdf)
 
 - 👨‍💻 All of my projects are available at [https://github.com/Eric-Anousone/portofolio](https://github.com/Eric-Anousone/portofolio)
 
