@@ -7,7 +7,8 @@
 
 - 📫 How to reach me **contact.enguyen@gmail.com**
 
-- 📄 Know about my experiences 🚀After 10 years of experience as an entrepreneur, I wish to leverage my expertise to benefit a company, utilizing data 📊 as a strategic axis for development🎯
+- 📄 Know about my experiences :
+🚀After 10 years of experience as an entrepreneur, I wish to leverage my expertise to benefit a company, utilizing data 📊 as a strategic axis for development🎯
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/eric-nguyen-pro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eric-nguyen-pro" height="30" width="40" /></a>
